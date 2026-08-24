@@ -28,7 +28,7 @@ Practice:
 * [x] Passing thread ownership
 * [x] Working with several threads
 * [x] Calculating a sum using multiple threads
-* [ ] Parallel file processing
+* [x] Parallel file processing
 
 ---
 
