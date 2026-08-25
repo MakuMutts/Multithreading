@@ -142,4 +142,3 @@ I use this repository to:
 * make mistakes and understand them;
 * track my progress.
 
-**Currently studying:** Chapter 2 — Managing Threads.
