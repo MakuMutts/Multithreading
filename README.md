@@ -46,9 +46,9 @@ Topics:
 
 Practice:
 
-* [ ] Shared counter
-* [ ] Creating a data race
-* [ ] Fixing a data race with `mutex`
+* [x] Shared counter
+* [x] Creating a data race
+* [x] Fixing a data race with `mutex`
 * [ ] Thread-safe class
 * [ ] Deadlock example
 * [ ] Fixing a deadlock
